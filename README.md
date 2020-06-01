@@ -1,2 +1,2 @@
 # Summer-training
-Summer training
+Summer training repository
